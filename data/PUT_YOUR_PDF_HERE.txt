@@ -1,0 +1,1 @@
+Copy your Bhagavad Gita PDF into this "data" folder (any file name ending in .pdf).
